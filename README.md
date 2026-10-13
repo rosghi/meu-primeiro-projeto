@@ -1,3 +1,8 @@
-
 # meu-primeiro-projeto
- e5e551f5b0a0d185ef89ba9626ba17e6b6181a1b
+
+
+
+Este é o meu repositório de testes para aprender Git e construir o meu portofolio IA
+
+
+
